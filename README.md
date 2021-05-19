@@ -1,48 +1,61 @@
 <h1 align="center">
-UI Clone - Twitter Responsive
+  Twitter Clone
 </h1>
 
-<p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
-
 <p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-twitter/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-twitter?color=%236633cc&logo=mit" alt="License">
-  </a>
+  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about">About</a>
 </p>
 
-<hr>
+<p align="center">
+ <img src="https://img.shields.io/badge/React-16.13.1-blue" alt="React" />
+ <img src="https://img.shields.io/badge/Typescript-3.7.2-9cf" alt="Typescript" >
+ <img src="https://img.shields.io/badge/Styled--components-5.1.1-lightgrey" alt="Styled-components" >
+</p>
 
-## Participants
+<p align="center">
+  <img alt="Twitter Clone" src="https://github.com/VitorHugoAntunes/readmeteste/blob/main/projectPresentation.gif" width="720px">
+</p>
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+<p align="center">
+  <h1>UI Clone - Twitter Responsive</h1>
+</p>
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+<h2 id="installation">Installation</h2>	
 
-## Techs
+Clone this repository: </br>
+```git clone https://github.com/VitorHugoAntunes/TwitterClone.git``` </br>
 
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+Install the dependencies: </br> 
+```npm install``` or ```yarn``` </br>
 
-## Ideas to implement
+Run the project: </br> 
+```yarn start``` </br>
 
-- [ ] Create new routes with React Router (e.g. Initial page)
-- [ ] Personal back-end integration:
-  - [ ] User registry
-  - [ ] Tweet management
-  - [ ] Mentions
-  - [ ] Direct messages
-  - [ ] And more...
+Then type in your browser the URL: </br> 
+```http://localhost:3000/``` </br>
 
-## Usage
+To view the project without installing, click [here](https://60a454c5a65f2c0098bb1644--gifted-chandrasekhar-aac533.netlify.app/).
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+<h2 id="technologies">Technologies</h2>
 
-## Contributing
+This project was developed with these technologies:
+
+- HTML
+- Styled-components
+- Styled-icons
+- React
+- React-sticky-box
+- Typescript
+
+<h2 id="about">About</h2>
+<p>This project was created to test and apply concepts of responsiveness in practice based on the Twitter interface. The application has different styles to fit different types of screens, like smartphones, tablets and desktop.</p>
+
+<h2 id="contributing">Contributing</h2>	
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+---
+This project was created based on the explanations of [Guilherme Rodz](https://github.com/guilhermerodz).

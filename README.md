@@ -5,8 +5,7 @@
 <p align="center">
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing">Contributing</a>
+  <a href="#about">About</a>
 </p>
 
 <p align="center">
@@ -52,10 +51,6 @@ This project was developed with these technologies:
 
 <h2 id="about">About</h2>
 <p>This project was created to test and apply concepts of responsiveness in practice based on the Twitter interface. The application has different styles to fit different types of screens, like smartphones, tablets and desktop.</p>
-
-<h2 id="contributing">Contributing</h2>	
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 ---
 This project was created based on the explanations of [Guilherme Rodz](https://github.com/guilhermerodz).
